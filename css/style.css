@@ -94,14 +94,7 @@ a {
     justify-content: space-between;
 }
 
-.logo {
-    font-size: 1.3rem;
-    font-weight: 800;
-
-    letter-spacing: -0.03em;
-
-    color: white;
-}
+.logo { font-size: 1.3rem; font-weight: 800; letter-spacing: -0.03em; color: white; } .logo-launch { color: #ffffff; } .logo-pad { color: var(--accent); }
 
 .nav-links {
     display: flex;
